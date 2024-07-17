@@ -1,6 +1,7 @@
 
 # 💫 About Me:
 <br>👩‍💻 my name is Zainab and I am skilled in JavaScript, C#, C/C++ and more. I create efficient and engaging web-based softwares and solutions 🌐✨
+<br>
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://zainab7681051.github.io/zainab.portfolio/)
 
 # 💻 Tech Stack:
