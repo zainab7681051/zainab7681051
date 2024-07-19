@@ -1,10 +1,10 @@
 
-# 💫 About Me:
-<br>👩‍💻 my name is Zainab and I am skilled in JavaScript, C#, C/C++ and more. I create efficient and engaging web-based softwares and solutions 🌐✨
-<br>
+# About Me:
+<br>my name is Zainab and I am skilled in JavaScript, C#, C/C++ and more. I create efficient and engaging web-based softwares and solutions.
+<br><br>
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://zainab7681051.github.io/zainab.portfolio/)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,10 +26,13 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zainab7681051&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zainab7681051&theme=dracula&hide_border=false)<br/>
-
+# GitHub Stats:
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zainab7681051&theme=tokyonight&count_private=true&showicons=true)]()
+<bt/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zainab7681051&theme=tokyonight)](https://git.io/streak-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab7681051&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zainab7681051&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zainab7681051&label=Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
