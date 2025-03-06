@@ -28,11 +28,6 @@
 
 # GitHub Stats:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zainab7681051&theme=tokyonight&count_private=true&showicons=true)]()
-<bt/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zainab7681051&theme=tokyonight)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab7681051&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=zainab7681051&label=Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
